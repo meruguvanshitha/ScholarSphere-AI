@@ -1,0 +1,8 @@
+{
+  "name": "ScholarSphere — Intelligent Scholarship Discovery & Eligibility Platform",
+  "description": "Intelligent scholarship discovery, explainable eligibility engine, deadline prioritization, and application tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
